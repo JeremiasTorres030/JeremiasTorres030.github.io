@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://jeremiastorres030.github.io/portafolio.github.io
+Sitemap: https://jeremiastorres030.github.io/portafolio.github.io/sitemap.xml
